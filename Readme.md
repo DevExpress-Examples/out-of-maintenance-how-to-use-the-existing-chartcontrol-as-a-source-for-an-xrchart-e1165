@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/PrintingMultipleBarCharts/Form1.cs) (VB: [Form1.vb](./VB/PrintingMultipleBarCharts/Form1.vb))
+* [XtraReport1.cs](./CS/PrintingMultipleBarCharts/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/PrintingMultipleBarCharts/XtraReport1.vb))
+<!-- default file list end -->
 # How to use the existing ChartControl as a source for an XRChart
 
 
